@@ -1,6 +1,6 @@
 owner=516473846983950336
-prefix=1
-game=play
+prefix=3
+game=type @vine 3play help 
 stayinchannel=true
 songinstatus=false
-token=NTU4NTU5MzcwOTQyNzQyNTI5.D3YmlQ.O4JM15bycK66jhIzB4p3iHQCWOs
+token=NTU4NTgwOTk2MjcwODUwMDQ4.D3Y6sA.JgmUs7Su9R1ovUnR7ETyF5n0JGc
